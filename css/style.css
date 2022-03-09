@@ -1,0 +1,64 @@
+
+.logo {
+    width: auto;
+    background-color: red;
+}
+
+.navegacao-home {
+    background-color: yellow;
+
+}
+
+@font-face {
+    font-family: 'fonte-acervo';
+    src: url('../fontes/Frank-Black.ttf') format('truetype');
+  }
+
+.itens-navegacao {
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'fonte-acervo' ;
+    text-transform: uppercase;
+    margin: 10px 0.5rem 10px 0.5rem;
+}
+
+.sobre {
+    font-family: 'fonte-acervo';
+}
+
+.foto-da-banda {
+    width: 100%;
+}
+
+.titulo-sobre {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'fonte-acervo';
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    background-color: blue;
+}
+
+.texto-sobre {
+    font-family: 'fonte-acervo';
+    font-size: 20px;
+    text-align: center;
+    margin-right: 10px;
+    background-color: orange;
+}
+
+.rodape {
+    text-align: center;
+    font-family: 'fonte-acervo';
+    background-color: gray;
+
+}
+.contato {
+    font-size: 15px;
+    
+
+}
+
+.logo-produtora {
+    width: 30%;
+}
